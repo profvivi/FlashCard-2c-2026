@@ -1,19 +1,18 @@
-/*removendo estilizações padroes*/
 *{
 box-sizing: border-box;
-margin: 0;/*espaço ao redor dos elementos*/
-padding: 0;/*espaçamento interno dos elementos*/
+margin: 0;
+padding: 0;
 }
 
 .cabecalho {
-padding: 15px 25px;/*espaçamento*/
+padding: 15px 25px;
 }
 
 .cartao {
-width: 260px;/*largura*/
-height: 200px;/*altura*/
+width: 260px;
+height: 200px;
 }
 
 .cartao-imagem {
-width: 100%; /*faz a imagem ocupar 100% da largura do cartão */
+width: 100%;
 }
